@@ -5,15 +5,15 @@ These files were provided from Erich Karkoschka (erich@pirlshell.lpl.arizona.edu
 
 The repository contains the following files:
 
-readme_hnbr.txt – text from email from Erich to Pat Fry describing the cube
+readme_hnbr.txt – text from email from Erich to Pat Fry describing the cube.
 
-hnbr.fits – original Neptune cube from Erich
+hnbr.fits – original Neptune cube from Erich.
 
-disph.fits – fortran program from Erich that reads cube
+disph.fits – fortran program from Erich that reads cube.
 
-cubenav.pro – IDL program that reads Erich’s original cube
+cubenav.pro – IDL program that reads Erich’s original cube.
 
-hnbr_navbp.fits.gz – Gzipped Neptune cube with wavelength and viewing/illumination/navigation arrays added as extensions
+hnbr_navbp.fits.gz – Gzipped Neptune cube with wavelength and viewing/illumination/navigation arrays added as extensions.
 
 stis_cube_read_example.pro – Example IDL program that reads Neptune cube with extra extensions.
  
